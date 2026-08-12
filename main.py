@@ -127,7 +127,7 @@ def print_results_table(ranked: list[dict]) -> None:
 
 def print_top_candidate_detail(candidate: dict) -> None:
     """Print a detailed breakdown of the top-ranked candidate."""
-    console.print(f"\n[bold cyan]── Top Candidate Detail: {candidate['candidate']} ──[/bold cyan]")
+    console.print(f"\n[bold cyan]-- Top Candidate Detail: {candidate['candidate']} --[/bold cyan]")
 
     console.print(f"[bold]Matched Skills:[/bold] {', '.join(candidate['matched_skills']) or 'None identified'}")
     console.print(f"[bold]Missing Skills:[/bold] {', '.join(candidate['missing_skills']) or 'None'}")
@@ -170,15 +170,16 @@ def main() -> None:
     console.print(f"[green]Found {len(resumes)} resume(s).[/green] Starting pipeline ...\n")
 
     # ── Run pipeline ──────────────────────────────────────────────────────────
+    # -- Run pipeline ----------------------------------------------------------
     ranked = rank_candidates(jd_text, resumes, output_dir=args.output)
 
-    # ── Display results ───────────────────────────────────────────────────────
+    # -- Display results -------------------------------------------------------
     print_results_table(ranked)
     print_top_candidate_detail(ranked[0])
 
-    console.print(f"\n[bold green]✓ Results saved to:[/bold green] {args.output}")
-    console.print(f"  • {args.output}ranked_results.json")
-    console.print(f"  • {args.output}ranked_results.csv\n")
+    console.print(f"\n[bold green]>> Results saved to:[/bold green] {args.output}")
+    console.print(f"  - {args.output}ranked_results.json")
+    console.print(f"  - {args.output}ranked_results.csv\n")
 
 
 if __name__ == "__main__":
