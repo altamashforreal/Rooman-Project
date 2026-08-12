@@ -1,0 +1,32 @@
+Vikram Nair
+Pune, India | vikram.nair@email.com | linkedin.com/in/vikramnair-ai
+
+PROFILE
+Research Scientist transitioning to industry. PhD in Machine Learning from IISc
+with publications in NLP and computer vision. Strong theoretical foundation and
+Python implementation experience; less industry / production exposure.
+
+EDUCATION
+Ph.D. Machine Learning — Indian Institute of Science (IISc), Bangalore (2018–2023)
+Thesis: "Efficient Transformers for Long-Context NLP Tasks"
+
+B.Tech Computer Science — NIT Calicut, 2018 | CGPA: 9.2/10
+
+RESEARCH EXPERIENCE
+
+Research Associate — IISc, Bangalore (2023 – Present)
+- Published 4 papers in top-tier venues (NeurIPS, ACL, ICLR, AAAI).
+- Developed novel attention mechanisms in PyTorch; open-sourced on GitHub (800+ stars).
+- Supervised 2 M.Tech students on NLP research projects.
+- Familiar with HPC cluster job scheduling (SLURM); no cloud/AWS experience.
+
+SKILLS
+Python, PyTorch, Hugging Face Transformers, NumPy, pandas, scikit-learn, Matplotlib,
+LaTeX, CUDA (GPU programming), Linux, Git
+
+PROJECTS
+- Long-Document Summarisation with Sparse Attention (GitHub: 800+ stars)
+- Multilingual Named Entity Recognition using XLM-RoBERTa
+
+PUBLICATIONS
+NeurIPS 2023, ACL 2022, ICLR 2022, AAAI 2021

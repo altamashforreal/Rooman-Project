@@ -1,0 +1,38 @@
+Karan Patel
+Ahmedabad, India | karanpatel.ml@gmail.com
+
+ABOUT
+Fresh B.Tech graduate with a strong interest in machine learning and data science.
+Have completed several online courses and built projects. Looking for my first
+full-time data science role.
+
+EDUCATION
+B.Tech Computer Science — Nirma University, Ahmedabad (2020–2024)
+CGPA: 7.2/10
+
+PROJECTS
+
+Sentiment Analysis Web App (Final Year Project)
+- Built a sentiment classifier using LSTM (Keras/TensorFlow) on IMDB movie reviews.
+- Deployed using Flask on Heroku.
+- Achieved 87% accuracy on test set.
+
+House Price Prediction
+- Trained a Random Forest regressor on the Boston housing dataset.
+- Used scikit-learn, pandas, matplotlib.
+- A basic end-to-end ML project with a Jupyter notebook.
+
+Stock Price Prediction (Attempted)
+- Tried to build LSTM for stock prediction but results were not reliable.
+
+SKILLS
+Python (Intermediate), pandas, NumPy, scikit-learn, TensorFlow/Keras (Basic),
+SQL (Basic — MySQL), Git, Jupyter Notebook
+
+COURSES
+- Deep Learning Specialisation — Coursera (Andrew Ng) ✓ Completed
+- SQL for Data Science — Coursera ✓ Completed
+- Introduction to Statistics — Khan Academy
+
+CERTIFICATIONS
+Google Data Analytics Certificate — 2024

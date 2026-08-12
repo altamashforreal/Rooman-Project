@@ -1,0 +1,26 @@
+Rajesh Naidu
+Hyderabad, India | rajesh.naidu@outlook.com
+
+WORK EXPERIENCE
+
+Software Engineer — TCS, Hyderabad (2017 – Present, 7 years)
+- Developed Java backend microservices using Spring Boot for banking application.
+- Worked with Oracle SQL databases; wrote stored procedures and performance-tuned queries.
+- Participated in Agile sprints; mentored 2 junior engineers.
+- Integrated REST APIs and third-party payment gateways.
+- Deployed applications on AWS EC2 using Ansible scripts.
+
+Junior Developer — Infosys, Pune (2015 – 2017)
+- Maintained legacy COBOL application for an insurance client.
+- Fixed bugs and wrote unit tests in Java.
+
+EDUCATION
+B.Tech Electronics and Communication — JNTU Hyderabad, 2015
+
+SKILLS
+Java, Spring Boot, Oracle SQL, REST APIs, AWS EC2, Git, Jenkins, Ansible, JIRA
+
+INTERESTS
+Recently started exploring Python and machine learning. Completed the "Python Basics"
+course on Coursera. Interested in transitioning to data science but no relevant
+experience yet.

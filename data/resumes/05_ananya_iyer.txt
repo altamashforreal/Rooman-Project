@@ -1,0 +1,29 @@
+Ananya Iyer
+Chennai, India | ananya.iyer@email.com | github.com/ananya-mlops
+
+SUMMARY
+ML Engineer / Data Scientist with 3.5 years of experience, specialising in
+MLOps infrastructure and productionising machine learning models. Strong Python
+background with expertise in Docker, Kubernetes, and cloud-native ML platforms.
+
+EXPERIENCE
+
+ML Engineer — Zoho Corporation, Chennai (Aug 2020 – Present)
+- Built and maintained CI/CD pipelines for ML model deployment using GitHub Actions
+  and ArgoCD (Kubernetes).
+- Containerised 12 ML models using Docker; deployed to AWS EKS.
+- Managed AWS infrastructure: EC2, S3, SageMaker endpoints, CloudWatch monitoring.
+- Collaborated with data scientists to integrate models into the product API layer.
+- Set up MLflow experiment tracking; reduced model retraining cycle from 2 weeks to 3 days.
+
+Data Science Intern — Wipro, Bangalore (Jan 2020 – Jul 2020)
+- Built a text classification model using scikit-learn TF-IDF + Logistic Regression.
+- Cleaned and preprocessed 500K row customer feedback dataset using pandas.
+- Wrote SQL queries to extract features from MySQL database.
+
+EDUCATION
+B.Tech Computer Science — VIT Chennai, 2020 | CGPA: 8.4/10
+
+SKILLS
+Python, scikit-learn, pandas, NumPy, Docker, Kubernetes, AWS (SageMaker, EC2, S3,
+CloudWatch), GitHub Actions, MLflow, FastAPI, SQL (MySQL, PostgreSQL), Git, Terraform

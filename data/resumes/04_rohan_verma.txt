@@ -1,0 +1,33 @@
+Rohan Verma
+Delhi, India | rohan.verma95@gmail.com
+
+ABOUT ME
+I am a data analyst with 2 years of experience working with Excel, Power BI,
+and some Python scripting. I have recently started learning machine learning through
+online courses on Coursera and Udemy. I am eager to transition into a data science role.
+
+WORK HISTORY
+
+Data Analyst — KPMG India, Delhi (Jul 2022 – Present)
+- Created Excel dashboards and PowerPoint reports for consulting clients.
+- Used SQL (basic SELECT queries) to pull data from client databases.
+- Assisted senior analysts with data cleaning in Excel.
+- Attended client meetings and took notes.
+
+Intern — Deloitte, Delhi (Jan 2022 – Jun 2022)
+- Organised data files and assisted in manual data entry.
+- Created basic charts in Excel for internal reports.
+
+EDUCATION
+B.Com (Hons) — Delhi University, 2022
+
+SKILLS
+Microsoft Excel (Advanced), Power BI, SQL (Basic), Python (Beginner — learning),
+PowerPoint
+
+COURSES COMPLETED
+- Machine Learning Specialisation — Coursera (Andrew Ng) — In Progress
+- Python for Data Science — Udemy
+
+INTERESTS
+Cricket, gaming, watching YouTube videos about AI

@@ -1,0 +1,36 @@
+Priya Sharma
+Bangalore, India | priya.sharma@email.com | linkedin.com/in/priyasharma | github.com/priya-ml
+
+SUMMARY
+Data Scientist with 5 years of experience building end-to-end ML pipelines for
+product analytics and recommendation systems. Strong background in Python, deep
+learning (TensorFlow/PyTorch), and deploying models to production with Docker and AWS.
+Published researcher with 2 peer-reviewed papers on graph neural networks.
+
+EXPERIENCE
+
+Senior Data Scientist — Flipkart, Bangalore (Jan 2022 – Present)
+- Built a customer churn prediction model (XGBoost + SHAP) reducing churn by 18%.
+- Designed real-time product recommendation system using matrix factorisation and
+  collaborative filtering; served 50M daily requests via AWS SageMaker.
+- Led A/B testing framework for pricing experiments; presented results to C-suite.
+- Mentored 3 junior data scientists; set up team MLflow tracking server.
+- Deployed models using Docker + Kubernetes on AWS EKS.
+
+Data Scientist — Mu Sigma, Pune (Jun 2019 – Dec 2021)
+- Developed time-series demand forecasting models (LSTM, Prophet) for FMCG client.
+- Worked with 10GB+ PostgreSQL databases; wrote complex analytical SQL queries.
+- Created automated reporting dashboards using Python + Plotly Dash.
+
+EDUCATION
+M.Tech in Computer Science (Machine Learning specialisation)
+IIT Bombay — 2019 | GPA: 8.9/10
+
+SKILLS
+Python, NumPy, pandas, scikit-learn, TensorFlow, PyTorch, XGBoost, SQL (PostgreSQL),
+Apache Spark, AWS (SageMaker, S3, EC2), Docker, Kubernetes, MLflow, Hugging Face,
+Git, Tableau, Plotly
+
+PUBLICATIONS
+- "Graph Neural Networks for E-commerce Recommendation" — IEEE ICDM 2023
+- "Temporal Pattern Learning in Demand Forecasting" — Springer ECML 2022

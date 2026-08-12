@@ -1,0 +1,32 @@
+Neha Gupta
+Bangalore, India | neha.gupta@email.com | linkedin.com/in/nehagupta-data
+
+PROFESSIONAL PROFILE
+Data Scientist with 4 years of experience at a B2B SaaS startup. Deep expertise in
+customer analytics, cohort analysis, and building ML models that directly influence
+product decisions. Comfortable owning the full ML lifecycle from data to deployment.
+
+EXPERIENCE
+
+Data Scientist — Chargebee (SaaS), Bangalore (Aug 2020 – Present)
+- Built customer lifetime value (LTV) model using survival analysis + XGBoost;
+  improved revenue forecasting accuracy by 31%.
+- Developed lead scoring model for sales team using logistic regression + SHAP explanations;
+  increased sales-qualified lead conversion by 19%.
+- Ran 25+ A/B experiments on pricing and feature adoption; communicated results to
+  CPO and growth team with statistical rigour.
+- Set up and maintained Airflow DAGs for automated model retraining pipelines.
+- Used AWS S3 + Lambda + SageMaker for model deployment and serving.
+- Wrote complex SQL queries in PostgreSQL and Redshift for feature engineering.
+
+Data Analyst — Freshworks, Chennai (Jun 2018 – Jul 2020)
+- Built dashboards in Tableau for customer success team (100+ metrics tracked daily).
+- Wrote Python scripts to automate data pipeline QA checks.
+- Introduced pandas-based data cleaning workflow to replace manual Excel processes.
+
+EDUCATION
+B.Tech Information Technology — Anna University, Chennai (2018)
+
+SKILLS
+Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, SQL (PostgreSQL, Redshift),
+AWS (S3, SageMaker, Lambda), Airflow, Tableau, Git, SHAP, Statsmodels

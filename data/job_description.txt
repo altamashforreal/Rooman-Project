@@ -1,0 +1,36 @@
+Job Title: Data Scientist
+Company: TechNova Analytics
+Location: Bangalore, India (Hybrid)
+Experience Required: 3–6 years
+
+About the Role:
+TechNova Analytics is hiring a Data Scientist to join our AI/ML team. You will
+design and deploy machine learning models that power our SaaS analytics platform,
+used by over 500 enterprise clients. You will work closely with product managers,
+engineers, and business stakeholders to translate complex data into actionable insight.
+
+Key Responsibilities:
+- Build, train, and deploy machine learning models for classification, regression,
+  and time-series forecasting tasks.
+- Work with large structured and semi-structured datasets using Python, SQL, and Spark.
+- Design and run A/B experiments; analyse results and communicate findings clearly.
+- Collaborate with MLOps to productionise models (Docker, Kubernetes, CI/CD pipelines).
+- Mentor junior data scientists and participate in code reviews.
+- Write clear technical documentation and present results to non-technical stakeholders.
+
+Required Skills and Qualifications:
+- Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, or related field.
+- 3+ years of hands-on experience in data science or machine learning.
+- Strong Python skills: numpy, pandas, scikit-learn, matplotlib/seaborn.
+- Experience with at least one deep learning framework: TensorFlow or PyTorch.
+- Solid understanding of statistics: hypothesis testing, distributions, Bayesian thinking.
+- Experience with SQL and relational databases (PostgreSQL or MySQL).
+- Familiarity with cloud platforms: AWS (SageMaker, S3, EC2) or GCP (Vertex AI, BigQuery).
+- Strong communication and stakeholder presentation skills.
+
+Preferred (Nice-to-Have):
+- Experience with NLP (transformers, LLMs, Hugging Face).
+- Knowledge of MLflow, DVC, or similar experiment tracking tools.
+- Experience with Apache Spark or Databricks.
+- Contributions to open-source projects or published research.
+- Experience in a SaaS or product company environment.

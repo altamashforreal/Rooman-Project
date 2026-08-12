@@ -1,0 +1,30 @@
+Sarah Johnson
+Hyderabad, India | sarah.johnson@email.com | linkedin.com/in/sarahj-ds
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6 years of industry experience across fintech and e-commerce.
+Strong expertise in classical ML, A/B experimentation, and communicating results to
+business stakeholders. AWS Certified Machine Learning Specialty (2023).
+
+WORK EXPERIENCE
+
+Lead Data Scientist — PayU India, Hyderabad (Jan 2020 – Present)
+- Designed credit risk scoring models (XGBoost, logistic regression) used in loan
+  approval pipeline; reduced default rate by 22%.
+- Ran multi-variant A/B experiments on checkout UX using statistical power analysis.
+- Built automated feature engineering pipeline using pandas + scikit-learn Pipelines.
+- Managed PostgreSQL data warehouse; wrote complex analytical SQL for reporting.
+- Presented model insights and business impact to VP-level stakeholders monthly.
+- Deployed models to AWS SageMaker; used S3 for artifact storage and versioning.
+
+Data Scientist — Amazon (contract), Bangalore (Jul 2018 – Dec 2019)
+- Forecasted inventory demand with ARIMA and XGBoost for 3 product categories.
+- Built ETL pipelines using AWS Glue + Lambda + S3.
+- Conducted data quality audits on 1TB+ datasets stored in Redshift.
+
+EDUCATION
+M.Sc. Statistics — Indian Statistical Institute, Kolkata (2018)
+
+SKILLS
+Python, R, pandas, NumPy, scikit-learn, XGBoost, SQL (PostgreSQL, Redshift),
+AWS (SageMaker, S3, Glue, Lambda), TensorFlow (basic), Tableau, Git, Jupyter

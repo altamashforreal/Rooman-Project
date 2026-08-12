@@ -1,0 +1,28 @@
+Meera Krishnamurthy
+Bangalore, India | meera.k@email.com | github.com/meera-ds
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3 years of experience in the healthcare domain, specialising in
+predictive modelling and clinical data analysis. Proficient in Python, SQL, and machine
+learning. No prior SaaS experience but strong analytical and communication skills.
+
+EXPERIENCE
+
+Data Scientist — Apollo Hospitals, Bangalore (Apr 2021 – Present)
+- Built patient readmission prediction model using logistic regression + Random Forest
+  (scikit-learn); reduced 30-day readmissions by 14%.
+- Analysed clinical trial data using statistical methods (chi-square, Kaplan-Meier).
+- Wrote complex SQL queries against a PostgreSQL clinical data warehouse (3M+ records).
+- Presented model findings to medical directors and hospital administration.
+- Created Python automation scripts to replace manual Excel-based reporting.
+
+Data Analyst — Manipal Health, Manipal (Jun 2020 – Mar 2021)
+- Cleaned and preprocessed electronic health records using Python/pandas.
+- Built survival analysis models in R for patient outcome prediction.
+
+EDUCATION
+M.Sc. Biostatistics — Manipal Academy of Higher Education, 2020
+
+SKILLS
+Python, pandas, NumPy, scikit-learn, SQL (PostgreSQL), R, Matplotlib, Seaborn,
+Git, Tableau, Excel, TensorFlow (basic, self-study)

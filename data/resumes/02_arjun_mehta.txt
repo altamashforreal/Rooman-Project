@@ -1,0 +1,30 @@
+Arjun Mehta
+Mumbai, India | arjun.mehta@gmail.com | github.com/arjunm-ds
+
+OBJECTIVE
+Data Scientist with 4 years of experience in NLP and deep learning. Passionate about
+building language models and deploying ML systems at scale. Looking for a challenging
+role at a data-driven SaaS company.
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist II — Juspay Technologies, Bangalore (Mar 2021 – Present)
+- Built a fraud detection system using ensemble methods (Random Forest + LightGBM)
+  achieving 97.2% precision; deployed on GCP Vertex AI.
+- Fine-tuned BERT-based models for payment intent classification using Hugging Face.
+- Wrote distributed data processing jobs in PySpark on Databricks for 5B daily events.
+- Conducted statistical hypothesis testing to validate product changes (t-tests, Mann-Whitney).
+- Authored internal documentation; presented quarterly model reviews to product team.
+
+Junior Data Scientist — Fractal Analytics, Mumbai (Aug 2019 – Feb 2021)
+- Built regression and classification models for retail sales forecasting (scikit-learn).
+- Performed large-scale EDA on SQL databases (MySQL, BigQuery).
+- Developed customer segmentation using K-Means and DBSCAN.
+
+EDUCATION
+B.E. Computer Engineering — University of Mumbai, 2019 | GPA: 8.1/10
+
+TECHNICAL SKILLS
+Python, pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers,
+LightGBM, PySpark, Databricks, GCP (Vertex AI, BigQuery), SQL (MySQL, BigQuery),
+Docker, Git, MLflow, DVC
