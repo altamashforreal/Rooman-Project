@@ -10,7 +10,7 @@ keyword-and-concept overlap score that doesn't require an LLM call.
 Model choice rationale:
   - all-MiniLM-L6-v2 is ~90 MB, fast on CPU, and scores well on
     semantic textual similarity benchmarks (STSB ~68 Spearman).
-  - It's free, local, and reproducible — no API key, no rate limits.
+  - It's free, local, and reproducible — no API key, no rate limits. test
 """
 
 import logging
